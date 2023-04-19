@@ -4,5 +4,5 @@
 3) cross_validation: cross validation for eight ML algorithms after hyper parameters tuning.
 3) eight_ML_algorithms: script for training and testing eight ML algorithms on three testing sets.
 4) ten_voting_regressor: script for training and testing ten voting regressors on three testing sets.
-5) K-W test: test the significance among eight ML algorithms and ten voting regressors.
+5) Kruskal-Wallis: test the significance among eight ML algorithms and ten voting regressors.
 
